@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");
 const cors = require("cors");
 const app = express();
-const apiRouter = require('./routes/api');
+const apiRouter = require('./api');
 
 // Enable CORS for all routes
 app.use(cors());
