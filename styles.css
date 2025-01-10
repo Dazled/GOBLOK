@@ -1,0 +1,33 @@
+div{
+    color: red;
+    font-size:30px;
+}
+
+#div2{
+    color : green;
+    font-size: 75;
+    text-align: center;
+}
+
+#div1{
+    display: inline;
+    color:blue;
+}
+
+.text-yellow{
+    color: yellow;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.background-gray{
+    background-color: gray;
+    display:block;
+}
+
+.hidden{
+    display:none;
+    
+}
